@@ -10,11 +10,21 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      7 years of experiences in Customer services working as Helpdesk, but long
+      ago I started my career in the Tech world, with my first tech degree in
+      computer assembly and programming when I was 14 years old, I develop a
+      passion for the technology more likely in the computer repair field.
+
+
+      Now I find my self in the world of programming technologies, and studying
+      in Cenfotec, where I recently got a superior technical degree in software
+      development, personally I did this to complement my certificates in Web
+      development.
+
+
+      Udemy and Freecodecamp are the pilars of my journey where I started to
+      discover the love for programming
     actions:
       - label: Contact Me
         url: /contact
